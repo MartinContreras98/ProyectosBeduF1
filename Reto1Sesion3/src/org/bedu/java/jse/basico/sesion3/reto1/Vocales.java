@@ -1,6 +1,6 @@
 package org.bedu.java.jse.basico.sesion3.reto1;
 
-import java.awt.print.Printable;
+
 import java.util.Scanner;
 
 public class Vocales {
